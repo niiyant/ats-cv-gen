@@ -21,4 +21,5 @@
 - **Julián**: QA Testing.  
 - **Francisco**: QA Testing, Vitest.  
 - **Rome**: QA Testing.
+
 Consulta el archivo de [Contactos](Contactos.md) para más detalles sobre el equipo.
