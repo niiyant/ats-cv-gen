@@ -36,4 +36,4 @@
 
 ---
 
-### [Ir al documento original con herramientas y roles](team/Equipos.md)
+### [Ir al documento original con herramientas y roles](Equipos.md)
