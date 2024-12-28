@@ -1,4 +1,7 @@
 # Asignación de Equipos
+## Equipo de Gestión de Proyecto
+- **Deisy**
+- **Leo**
 ## Equipo Frontend
 - **Justin**: Tailwind, Next, React, Astro, TypeScript, Figma.  
 - **Artur**: Node.js, Express, React, Next.js, TypeScript, MySQL.  
@@ -15,7 +18,10 @@
 - **Luciano**: Python, FastAPI, MySQL/PostgreSQL, .NET Core, Docker/Nginx/Shell.
 
 ## Equipo UX/UI Design
-- **Brooke**: Diseño de interfaz, metodologías ágiles, experiencia de usuario, accesibilidad, Figma, Analytics, Webflow, Slack.  
+- **Drak** : Team Leader
+- **Brooke**: Diseño de interfaz, metodologías ágiles, experiencia de usuario, accesibilidad, Figma, Analytics, Webflow, Slack.
+- **Denja** : Python, JavaScript, Docker, Django, MySQL, HTML, CSS
+
 
 ## Equipo de Pruebas de Calidad
 - **Julián**: QA Testing.  
